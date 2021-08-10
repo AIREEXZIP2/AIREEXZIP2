@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on YouTube 
 - 🤔 I’m looking for help with VilocityX Documentation 
 - 💬 Ask me about Programming languages like c,c++,Javascript,python
-- 📫 How to reach me: LinkedIn 
+- 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/pooja-airee-57680a206/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a YouTube channel and a running startup.
