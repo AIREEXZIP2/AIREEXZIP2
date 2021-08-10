@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on Competitive Programming 
 - 🌱 I’m currently learning Data structure and Algorithm,Android studio 
-- 👯 I’m looking to collaborate on YouTube 
-- 🤔 I’m looking for help with VilocityX Documentation 
+- 👯 I’m looking to collaborate on YouTube  https://www.youtube.com/channel/UCUgwP-UCYX4kz6JXRvH5cMQ
+- 🤔 I’m looking for help with Computer vision 
 - 💬 Ask me about Programming languages like c,c++,Javascript,python
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/pooja-airee-57680a206/
 - 😄 Pronouns: She/her
